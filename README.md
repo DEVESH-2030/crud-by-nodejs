@@ -1,2 +1,2 @@
 # crud-by-nodejs
-Crud operstion using node js
+Crud operation using node js
