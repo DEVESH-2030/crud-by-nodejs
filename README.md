@@ -1,3 +1,6 @@
+
+# Get all users
+![Alt get users](image.png)
 # crud-by-nodejs
 Crud operation using node js
 
