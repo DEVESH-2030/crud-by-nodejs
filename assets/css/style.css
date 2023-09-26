@@ -72,7 +72,7 @@ a {
 }
 
 #site-main{
-    margin-top: 6em;
+    margin-top: 1em;
     font-family: 'Barlow', sans-serif;
 }
 
@@ -214,15 +214,17 @@ table{
 
 #update_user .form-group .btn,
 #add_user .form-group .btn{
-    width: 100%;
+    width: 20%;
     padding: .9em 1em;
     background-color:#16db93; 
     border: none;
     font-family: 'PT Sans', sans-serif;
     font-size: 1em;
     cursor: pointer;
-    border-radius: .2em;
+    border-radius: .5em;
     margin: .5em 0;
+    float: right;
+    /* background: linear-gradient(to right, #b9b4bd, #68c016); */
 }
 
 #update_user .form-group .btn:hover,
