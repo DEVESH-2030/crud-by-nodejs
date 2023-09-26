@@ -1,22 +1,22 @@
 
 ### Get all users
-![Alt get users](image.png)
+![Alt get users](image-index.png)
 
 ### Add user
-![Alt text](image-1.png)
+![Alt text](image-add.png)
 
-![Alt text](image-6.png)
+![Alt text](user-created.png)
 
 ### Update user
-![Alt text](image-2.png)
+![Alt text](image-update.png)
 
-![Alt text](image-5.png)
+![Alt text](user-updated.png)
 
 ### delete user
 
-![Alt text](image-3.png)
+![Alt text](image-delete.png)
 
-![Alt text](image-4.png)
+![Alt text](user-deleted.png)
 
 # crud-by-nodejs
 Crud operation using node js
